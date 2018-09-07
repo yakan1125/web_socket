@@ -5,8 +5,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.0.0rc4",
-    "jade": "*"
+    "express": "*",
+    "socket.io": "*"
   },
   "engines": {
     "node": "0.8.x",
